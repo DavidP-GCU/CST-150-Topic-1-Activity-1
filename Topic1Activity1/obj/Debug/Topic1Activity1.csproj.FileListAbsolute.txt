@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\Topic1Activity1\Topic1Activity1\bin\Debug\Topic1Activity1.exe.config
+C:\Users\David\source\repos\Topic1Activity1\Topic1Activity1\bin\Debug\Topic1Activity1.exe
+C:\Users\David\source\repos\Topic1Activity1\Topic1Activity1\bin\Debug\Topic1Activity1.pdb
+C:\Users\David\source\repos\Topic1Activity1\Topic1Activity1\obj\Debug\Topic1Activity1.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Topic1Activity1\Topic1Activity1\obj\Debug\Topic1Activity1.csproj.SuggestedBindingRedirects.cache
+C:\Users\David\source\repos\Topic1Activity1\Topic1Activity1\obj\Debug\Topic1Activity1.activity1SimpleGUI.resources
+C:\Users\David\source\repos\Topic1Activity1\Topic1Activity1\obj\Debug\Topic1Activity1.Properties.Resources.resources
+C:\Users\David\source\repos\Topic1Activity1\Topic1Activity1\obj\Debug\Topic1Activity1.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Topic1Activity1\Topic1Activity1\obj\Debug\Topic1Activity1.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Topic1Activity1\Topic1Activity1\obj\Debug\Topic1Activity1.exe
+C:\Users\David\source\repos\Topic1Activity1\Topic1Activity1\obj\Debug\Topic1Activity1.pdb
